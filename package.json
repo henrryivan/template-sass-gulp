@@ -1,0 +1,19 @@
+{
+  "name": "template-sass-y-gulp",
+  "version": "1.0.0",
+  "description": "Template para iniciar un proyecto usando SASS con Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Henrry Tandaypan Mariños",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
