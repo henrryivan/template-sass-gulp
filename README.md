@@ -1,6 +1,6 @@
 
 ## NPM:
-- Recupera la carpeta node_modeles con las dependecias
+- Recupera la carpeta node_modules con las dependencias
 ````bash
 $ npm install
 ````
